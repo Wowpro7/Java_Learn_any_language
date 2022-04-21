@@ -1,0 +1,336 @@
+mich, mir
+mann
+frau
+manner
+frauen
+niemals
+niemand
+nein
+ja
+fisch
+maus
+sehen
+kennen
+machen
+alt
+jung
+schmuzig
+fahren
+brauchen
+toll
+normal
+vogel
+perfekt
+fertig
+neu
+lustig
+stark
+gross
+lang
+frei
+teuer
+schnell
+schwach
+traurig
+hoch
+warm
+beginnen
+waschen
+tief
+kalt
+weit
+schlafen
+schwimmen
+langsam
+wichtig
+klar
+klein
+rund
+gesund
+einfach
+katze
+katzen
+hund
+hunde
+nummer
+ehefrau,gattin,weib
+ehemann,gatte
+oma,grossmutti
+grossvater,opa
+hose
+hemd,trikot,bluse,obrehemd
+unterwasche
+laut
+familie
+haus
+wohnung
+wohnzimmer
+bus
+box
+eis,speiseeis
+kurz
+kaffee
+zeitungen
+zeitung
+ei
+sind
+blumen
+blume
+himmel
+feuer
+stern
+wind
+natur
+spielt
+sonne
+sieht
+fallt
+fallen
+nudeln
+berge
+berg
+mein,meine
+dein,deine
+sein,seine
+unser
+eure
+ihr
+ihre
+menschen
+schlafe
+kind
+kinder
+haustier
+mag,gern,magst
+schwer
+recht
+insekt
+hure
+alles
+auch
+spielzueg
+fahrzeug
+feuerzeug
+ich lebe
+eine blume
+die natur
+eure blumen
+ich auch
+magst du mich
+bis bald
+auf wiedersehen
+bis spater
+wie geht's
+gern geschehen
+keine ahnung
+alles klar
+guten abend
+guten morgen
+morgen
+heute,heutzutage
+eier
+obst
+essen
+lecker
+bier
+saft
+fische,fisch
+apfel
+milch
+fleisch
+wir trinken
+du trinkst
+sie trinkt
+trinke
+brot
+bucher
+buch
+liest
+lesen
+hore
+ihn
+baumen
+baum
+viele
+treppe
+kennt
+fur
+teilen
+ich lerne
+wir lernen
+du lernst
+willkommen
+hier
+tochter
+sohn
+sie
+macht
+kuchen
+sie liebt
+sie lieben
+ich liebe
+du liebst
+aber,sondern
+jetzt,gerade
+nitch
+ob
+mochtest
+danke
+ich denke
+du denkst
+er denkt
+tur
+an
+sie hat
+sie haben
+ich habe
+wir
+kuh
+kuhe
+pferd
+pferde
+er
+sie verstehen
+sie versteht
+ich verstehe
+du verstehst
+bitte
+nochmal
+sie versuchen
+ich versuche
+du versuchst
+hunger
+bevor
+sie sagen
+sie sagt
+ich sage
+sachen
+sache
+ich sache
+ich sachen
+sie sachen
+suss
+letzte
+schon
+zuletzt
+viel
+stuck
+benutzt
+essenszeit
+ist tut mir leid
+wofur
+baer
+genau
+kleidung
+kleidungen
+kleider
+knopfe
+knopf
+rock
+roecke
+wir tragen
+ich trage
+sie tragen
+du tragst
+sauber
+schuhe
+mantel
+biene
+tee
+schwein
+schweine
+maeuse
+madchen
+orange
+orangen
+junge
+jungen
+tomaten
+fliegen
+fliege
+bananen
+banane
+kaefer
+ich
+bin
+ist
+es
+er isst
+wir essen
+du isst
+ich esse
+ich esse gerade
+tiere
+ich komme
+du kommst
+wir kommen
+er kommt
+aus
+zucker
+ich gehe
+er geht
+wir gehen
+du gehst
+bett
+schmuck
+baby
+name
+wir schreiben
+sie schreiben
+ich schreibe
+sie schreibt
+du schreibst
+person
+vor
+vorname
+familienname,nachname
+nach
+fans
+erwachsene
+staatsburger
+vegetarier
+gaeste
+werkzeug
+gruppe
+geschlecht
+besuch
+publikum
+anfanger
+feind
+mitglieder
+mitglied
+du hilfst
+wir helfen
+er hilft
+werde
+zuhause
+mude
+winter kommt
+wunsch
+viele wunsche
+naechsten
+zeit
+tag
+nacht
+abend
+kann
+draussen
+ich spreche
+du sprichst
+wir sprechen
+er spricht
+kartoffeln
+baeren
+enten
+ente
+schlecht
+ich zahle
+ruhig
+richtig
+wir spielen
+sie zahlen
+du zahlst
+ich zahle
+bezahlen
+zahlen
+licht

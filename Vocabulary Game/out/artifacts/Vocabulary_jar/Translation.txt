@@ -1,0 +1,336 @@
+me
+man
+woman
+men
+women
+never
+nobody
+no
+yes
+fish
+mouse
+to see
+to know
+to do
+old
+young
+dirty
+to drive
+to need
+great
+normal
+bird
+perfect
+done
+new
+funny
+strong
+big
+long
+free
+expensive
+fast
+weak
+sad
+high
+warm
+to begin
+to wash
+deep
+cold
+far
+to sleep
+to swim
+slow,slowly
+important
+clear
+small
+round
+healthy
+easy,just,simply
+cat
+cats
+dog
+dogs
+number
+wife
+husband
+grandma,grandmother
+grandpa,grandfather
+pants
+shirt
+underwear
+loud
+family
+house
+apartment
+living room
+bus
+box
+ice cream
+short
+coffee
+newspapers
+newspaper
+egg
+are
+flowers
+flower
+sky
+fire
+star
+wind
+nature
+plays
+sun
+sees
+falls
+fall
+pasta
+mountains
+mountain
+my
+your
+his,its
+our
+yours
+her,their
+your,their
+people
+sleep
+child
+children
+pet
+like
+heavy,difficult
+right
+insect
+whore
+all
+too
+toy
+car,vehicle
+lighter
+i am alive
+a flower
+the nature
+your flowers
+me too
+do you like me
+see you soon
+goodbye
+see you later
+how are you
+you are welcome
+no idea
+all right
+good evening
+good morning
+tomorrow
+today
+eggs
+fruit
+food
+tasty,delicious
+beer
+juice
+fish
+apple,apples
+milk
+meat
+we are drinking
+you are drinking
+she is drinking
+a drink
+bread
+books
+book
+reads
+read
+hear
+him
+trees
+tree
+many,lots
+stairs,staircase
+knows
+for
+share,divide
+i am learning
+we are learning
+you are learning
+welcome
+here
+daughter
+son
+she,they
+makes,does
+cake,pie
+she loves
+they love
+i love
+you love
+but
+now
+not
+if,whether
+want
+thanks
+i am thinking
+you are thinking
+he is thinking
+door
+at
+she has
+they have
+i have
+we
+cow
+cows
+horse
+horses
+he
+they are understanding
+she is understanding
+i am understanding
+you are understanding
+please
+again,once more
+they are trying
+i am trying
+you are trying
+hungry
+before
+they are saying
+she is saying
+i am saying
+stuff,things
+thing
+i do it
+i do things
+they do things
+sweet
+last,latest
+beautiful
+in the end
+much,many,a lot of
+piece
+used
+mealtime
+i am sorry
+for what
+bear
+exactly,precisely
+dress
+clothes
+dresses
+buttons
+button
+skirt
+skirts
+we are wearing
+i am wearing
+they are wearing
+you are wearing
+clean
+shoes
+coat
+bee
+tea
+pig
+pigs
+mice
+girl,girls
+orange
+oranges
+boy
+boys
+tomatoes
+flies
+fly
+bananas
+banana
+beetle
+i
+am
+is
+it
+he is eating
+we are eating
+you are eating
+i eat
+i am eating
+animals
+i am coming
+you are coming
+we are coming
+he is coming
+from
+sugar
+i go
+he goes
+we go
+you go
+bed
+jewellery
+baby
+name
+we are writing
+they are writing
+i am writing
+she is writing
+you are writing
+person
+in front of
+first name
+last name
+after
+fans
+adult
+citizen
+vegetarian
+guests
+tool
+group
+gender
+visit
+audience,public,crowd
+beginner,novice
+enemy,foe
+members
+member,fellow
+you are helping
+we are helping
+he is helping
+will,become
+at home
+tired
+winter is coming
+wish
+many wishes
+next
+time
+day
+night
+evening
+can
+outside
+i am speaking
+you are speaking
+we are speaking
+he is speaking
+potatoes
+bears
+ducks
+duck
+bad
+i am paying
+quiet,calm
+correct
+we are playing
+they are paying
+you are paying
+i am paying
+to pay
+pay
+light
